@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: purple;
+  color: white;
+}
+
+.big-number {
+  font-size: 40px;
+}
+
+em {
+  color: darkorange;
+}
+
+/*p:nth-of-type(4) {
+  font-size: 40px;
+}*/
